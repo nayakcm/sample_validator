@@ -1,0 +1,21 @@
+{
+  "name": "gqa-validation",
+  "version": "1.0.0",
+  "description": "validation helper methods",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "eslint": "eslint ."
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.2.0",
+    "eslint": "^8.35.0",
+    "eslint-config-prettier": "^8.6.0",
+    "eslint-plugin-prettier": "^4.2.1"
+  },
+  "dependencies": {
+    "joi": "^17.7.0"
+  }
+}
